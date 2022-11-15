@@ -12,7 +12,7 @@ server.on("error", err => console.log(`error ${err}`));
 const productos = new Contenedor("productos.txt");
 
 
-app.get("/producto", async (req, res) => {
+app.get("/productos", async (req, res) => {
     const producto = await productos.getAll();
     res.send(producto)
 });
