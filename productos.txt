@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Buzo Seleccion Argentina",
+        "price": 32500,
+        "thumbnail": "https:argentina32500",
+        "id":1
+    },
+    {
+        "title": "Buzo Seleccion Francesa",
+        "price": 32500,
+        "thumbnail": "https:francia32500",
+        "id":2
+    },
+    {
+        "title": "Buzo Seleccion Brasilera",
+        "price": 32500,
+        "thumbnail": "https:brasil32500",
+        "id":3
+    },
+
+]
